@@ -1,4 +1,4 @@
-# Projects
+# Work experience + personal projects
 
 <details><summary> 🇻🇪 2012 - PHP, KumbiaPHP, PostgreSQL </summary>
 <p>
