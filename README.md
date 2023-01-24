@@ -94,6 +94,10 @@
          <li>Bootstrap</li>
          <li>SVN</li>
       </ul>
+      <img width="893" alt="image" src="https://user-images.githubusercontent.com/105893405/214318851-bcf2d936-71b2-46d8-a93b-12149e81e2e6.png">
+      <img width="971" alt="image" src="https://user-images.githubusercontent.com/105893405/214319162-d4d5b0f9-b176-464e-b96b-d68282161b2d.png">
+
+
    </p>
 </details>
 
@@ -123,6 +127,7 @@
          <li>PostgreSQL</li>
          <li>JQuery</li>
       </ul>
+      <img width="839" alt="image" src="https://user-images.githubusercontent.com/105893405/214319725-537602db-3f64-49ab-9f36-6f07e904f6c1.png">
    </p>
 </details>
 
